@@ -1,0 +1,7 @@
+C:\Users\Moi\Desktop\Exercice Variable\Exercice Variable\variable\exercice8\bin\Debug\exercice8.exe.config
+C:\Users\Moi\Desktop\Exercice Variable\Exercice Variable\variable\exercice8\bin\Debug\exercice8.exe
+C:\Users\Moi\Desktop\Exercice Variable\Exercice Variable\variable\exercice8\bin\Debug\exercice8.pdb
+C:\Users\Moi\Desktop\Exercice Variable\Exercice Variable\variable\exercice8\obj\Debug\exercice8.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\Exercice Variable\Exercice Variable\variable\exercice8\obj\Debug\exercice8.exe
+C:\Users\Moi\Desktop\Exercice Variable\Exercice Variable\variable\exercice8\obj\Debug\exercice8.pdb
+C:\Users\Moi\Desktop\Exercice Variable\Exercice Variable\variable\exercice8\obj\Debug\exercice8.csprojAssemblyReference.cache
